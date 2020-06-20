@@ -2266,5 +2266,11 @@
     "type": "general",
     "setup": "My older brother always tore the last pages of my comic books, and never told me why.",
     "punchline": "I had to draw my own conclusions."
+  },
+  {
+    "id": 388,
+    "type":"programming",
+    "setup":"Two bytes meet. The first byte asks, \"Are you ill?\"",
+    "punchline":"\"No\", answers the second one, \"Just a bit off.\"",
   }
 ]
